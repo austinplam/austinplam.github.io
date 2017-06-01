@@ -1,0 +1,9 @@
+* {
+  border: 1px solid red;
+}
+body {
+  color: green;
+}
+h1, h2 {
+  color: red; 
+}
